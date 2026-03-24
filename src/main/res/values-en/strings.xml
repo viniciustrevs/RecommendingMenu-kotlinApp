@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TacoMatch</string>
+
+    <!-- Utils/General Texts -->
+    <string name="close">close</string>
+
+    <!-- Item Selection Screen -->
+    <string name="item_selection_screen_title">Taco Match Menu</string>
+
+    <!-- Recipe Screen -->
+    <string name="recipe_screen_title">Recomendation</string>
+
+</resources>
